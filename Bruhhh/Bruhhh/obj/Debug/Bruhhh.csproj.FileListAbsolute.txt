@@ -1,0 +1,11 @@
+C:\Users\student\source\repos\Bruhhh\Bruhhh\bin\Debug\Bruhhh.exe.config
+C:\Users\student\source\repos\Bruhhh\Bruhhh\bin\Debug\Bruhhh.exe
+C:\Users\student\source\repos\Bruhhh\Bruhhh\bin\Debug\Bruhhh.pdb
+C:\Users\student\source\repos\Bruhhh\Bruhhh\obj\Debug\Bruhhh.csproj.AssemblyReference.cache
+C:\Users\student\source\repos\Bruhhh\Bruhhh\obj\Debug\Bruhhh.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\source\repos\Bruhhh\Bruhhh\obj\Debug\Bruhhh.Form1.resources
+C:\Users\student\source\repos\Bruhhh\Bruhhh\obj\Debug\Bruhhh.Properties.Resources.resources
+C:\Users\student\source\repos\Bruhhh\Bruhhh\obj\Debug\Bruhhh.csproj.GenerateResource.cache
+C:\Users\student\source\repos\Bruhhh\Bruhhh\obj\Debug\Bruhhh.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\Bruhhh\Bruhhh\obj\Debug\Bruhhh.exe
+C:\Users\student\source\repos\Bruhhh\Bruhhh\obj\Debug\Bruhhh.pdb
